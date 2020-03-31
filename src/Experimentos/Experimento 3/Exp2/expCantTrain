@@ -1,0 +1,75 @@
+---------------------------- p = 50 -----------------------------------
+PCA + k-NN. Trabajando... particion: 1 de 2
+PCA + k-NN. Trabajando... particion: 2 de 2
+Promedio de Hit Rate de porcentaje =  50%: 0.969643
+---------------------------- p = 75 -----------------------------------
+PCA + k-NN. Trabajando... particion: 1 de 4
+PCA + k-NN. Trabajando... particion: 2 de 4
+PCA + k-NN. Trabajando... particion: 3 de 4
+PCA + k-NN. Trabajando... particion: 4 de 4
+Promedio de Hit Rate de porcentaje =  75%: 0.974357
+---------------------------- p = 90 -----------------------------------
+PCA + k-NN. Trabajando... particion: 1 de 10
+PCA + k-NN. Trabajando... particion: 2 de 10
+PCA + k-NN. Trabajando... particion: 3 de 10
+PCA + k-NN. Trabajando... particion: 4 de 10
+PCA + k-NN. Trabajando... particion: 5 de 10
+PCA + k-NN. Trabajando... particion: 6 de 10
+PCA + k-NN. Trabajando... particion: 7 de 10
+PCA + k-NN. Trabajando... particion: 8 de 10
+PCA + k-NN. Trabajando... particion: 9 de 10
+PCA + k-NN. Trabajando... particion: 10 de 10
+Promedio de Hit Rate de porcentaje =  90%: 0.975595
+---------------------------- p = 99 -----------------------------------
+PCA + k-NN. Trabajando... particion: 1 de 10
+PCA + k-NN. Trabajando... particion: 2 de 10
+PCA + k-NN. Trabajando... particion: 3 de 10
+PCA + k-NN. Trabajando... particion: 4 de 10
+PCA + k-NN. Trabajando... particion: 5 de 10
+PCA + k-NN. Trabajando... particion: 6 de 10
+PCA + k-NN. Trabajando... particion: 7 de 10
+PCA + k-NN. Trabajando... particion: 8 de 10
+PCA + k-NN. Trabajando... particion: 9 de 10
+PCA + k-NN. Trabajando... particion: 10 de 10
+Promedio de Hit Rate de porcentaje =  99%: 0.980476
+Porcentaje optimo del experimento para PCA 99
+
+PCA_TOTAL : 19092.4 segundos
+
+
+----------------------------- p = 50 -----------------------------------
+PLS-DA + k-NN. Trabajando... particion: 1 de 2
+PLS-DA + k-NN. Trabajando... particion: 2 de 2
+Promedio de porcentaje =  50%: 0.967738
+---------------------------- p = 75 -----------------------------------
+PLS-DA + k-NN. Trabajando... particion: 1 de 4
+PLS-DA + k-NN. Trabajando... particion: 2 de 4
+PLS-DA + k-NN. Trabajando... particion: 3 de 4
+PLS-DA + k-NN. Trabajando... particion: 4 de 4
+Promedio de porcentaje =  75%: 0.969952
+---------------------------- p = 90 -----------------------------------
+PLS-DA + k-NN. Trabajando... particion: 1 de 10
+PLS-DA + k-NN. Trabajando... particion: 2 de 10
+PLS-DA + k-NN. Trabajando... particion: 3 de 10
+PLS-DA + k-NN. Trabajando... particion: 4 de 10
+PLS-DA + k-NN. Trabajando... particion: 5 de 10
+PLS-DA + k-NN. Trabajando... particion: 6 de 10
+PLS-DA + k-NN. Trabajando... particion: 7 de 10
+PLS-DA + k-NN. Trabajando... particion: 8 de 10
+PLS-DA + k-NN. Trabajando... particion: 9 de 10
+PLS-DA + k-NN. Trabajando... particion: 10 de 10
+Promedio de porcentaje =  90%: 0.969071
+---------------------------- p = 99 -----------------------------------
+PLS-DA + k-NN. Trabajando... particion: 1 de 10
+PLS-DA + k-NN. Trabajando... particion: 2 de 10
+PLS-DA + k-NN. Trabajando... particion: 3 de 10
+PLS-DA + k-NN. Trabajando... particion: 4 de 10
+PLS-DA + k-NN. Trabajando... particion: 5 de 10
+PLS-DA + k-NN. Trabajando... particion: 6 de 10
+PLS-DA + k-NN. Trabajando... particion: 7 de 10
+PLS-DA + k-NN. Trabajando... particion: 8 de 10
+PLS-DA + k-NN. Trabajando... particion: 9 de 10
+PLS-DA + k-NN. Trabajando... particion: 10 de 10
+Promedio de porcentaje =  99%: 0.965
+Porcentaje optimo del experimento para PLS-DA: 75
+PLS_TOTAL : 11178.5

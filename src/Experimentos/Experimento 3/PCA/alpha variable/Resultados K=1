@@ -1,0 +1,36 @@
+---------------------------- alpha = 1 -----------------------------------
+PCA + k-NN. Trabajando... iteracion: 1 de 1
+PROMEDIO HR DE alpha =  1: 0.244286
+---------------------------- alpha = 2 -----------------------------------
+PCA + k-NN. Trabajando... iteracion: 1 de 1
+PROMEDIO HR DE alpha =  2: 0.380952
+---------------------------- alpha = 5 -----------------------------------
+PCA + k-NN. Trabajando... iteracion: 1 de 1
+PROMEDIO HR DE alpha =  5: 0.726429
+---------------------------- alpha = 10 -----------------------------------
+PCA + k-NN. Trabajando... iteracion: 1 de 1
+PROMEDIO HR DE alpha =  10: 0.920476
+---------------------------- alpha = 20 -----------------------------------
+PCA + k-NN. Trabajando... iteracion: 1 de 1
+PROMEDIO HR DE alpha =  20: 0.96619
+---------------------------- alpha = 25 -----------------------------------
+PCA + k-NN. Trabajando... iteracion: 1 de 1
+PROMEDIO HR DE alpha =  25: 0.968333
+---------------------------- alpha = 30 -----------------------------------
+PCA + k-NN. Trabajando... iteracion: 1 de 1
+PROMEDIO HR DE alpha =  30: 0.970476
+---------------------------- alpha = 40 -----------------------------------
+PCA + k-NN. Trabajando... iteracion: 1 de 1
+PROMEDIO HR DE alpha =  40: 0.973333
+---------------------------- alpha = 50 -----------------------------------
+PCA + k-NN. Trabajando... iteracion: 1 de 1
+PROMEDIO HR DE alpha =  50: 0.974286
+---------------------------- alpha = 100 -----------------------------------
+PCA + k-NN. Trabajando... iteracion: 1 de 1
+PROMEDIO HR DE alpha =  100: 0.972857
+---------------------------- alpha = 250 -----------------------------------
+PCA + k-NN. Trabajando... iteracion: 1 de 1
+PROMEDIO HR DE alpha =  250: 0.968571
+alphaOptimo DEL EXPERIMENTO(con peso): 50
+PCA_TOTAL : 393.056
+

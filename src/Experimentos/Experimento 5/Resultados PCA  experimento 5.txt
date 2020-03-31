@@ -1,0 +1,391 @@
+
+-----------------------------------------------------------------------------
+
+Train: 100 
+
+PCA + kN N. Trabajando...
+PCA_PARCIAL : 16.2465
+Hit Rate para K = 1: 0.67821
+
+Precision para clase 0: 0.817225
+Precision para clase 1: 0.562184
+Precision para clase 2: 0.883298
+Precision para clase 3: 0.719878
+Precision para clase 4: 0.53835
+Precision para clase 5: 0.662213
+Precision para clase 6: 0.868181
+Precision para clase 7: 0.710483
+Precision para clase 8: 0.742133
+Precision para clase 9: 0.477854
+
+Precision del Clasificador: 0.69818
+Recall clase 0: 0.828121
+Recall clase 1: 0.975615
+Recall clase 2: 0.606817
+Recall clase 3: 0.652084
+Recall clase 4: 0.546305
+Recall clase 5: 0.563161
+Recall clase 6: 0.759264
+Recall clase 7: 0.680401
+Recall clase 8: 0.658512
+Recall clase 9: 0.464816
+
+Recall del Clasificador: 0.67351
+
+F1 Score: 0.685623
+
+-----------------------------------------------------------------------------
+
+Train: 420 (1%)
+
+PCA + kN N. Trabajando...
+PCA_PARCIAL : 21.3738
+Hit Rate para K = 2: 0.847018
+
+Precision para clase 0: 0.920124
+Precision para clase 1: 0.781239
+Precision para clase 2: 0.921038
+Precision para clase 3: 0.80075
+Precision para clase 4: 0.837365
+Precision para clase 5: 0.794794
+Precision para clase 6: 0.936903
+Precision para clase 7: 0.903226
+Precision para clase 8: 0.92065
+Precision para clase 9: 0.732483
+
+Precision del Clasificador: 0.854857
+Recall clase 0: 0.94306
+Recall clase 1: 0.992899
+Recall clase 2: 0.798887
+Recall clase 3: 0.842386
+Recall clase 4: 0.807845
+Recall clase 5: 0.839338
+Recall clase 6: 0.90836
+Recall clase 7: 0.793963
+Recall clase 8: 0.705282
+Recall clase 9: 0.818907
+
+Recall del Clasificador: 0.845093
+
+F1 Score: 0.849947
+
+-----------------------------------------------------------------------------
+
+Train: 2100 (5%)
+
+PCA + kN N. Trabajando...
+PCA_PARCIAL : 38.9593
+Hit Rate para K = 3: 0.919048
+
+Precision para clase 0: 0.944116
+Precision para clase 1: 0.890678
+Precision para clase 2: 0.959815
+Precision para clase 3: 0.890874
+Precision para clase 4: 0.932226
+Precision para clase 5: 0.9
+Precision para clase 6: 0.954023
+Precision para clase 7: 0.914698
+Precision para clase 8: 0.944782
+Precision para clase 9: 0.872841
+
+Precision del Clasificador: 0.920405
+Recall clase 0: 0.972856
+Recall clase 1: 0.991928
+Recall clase 2: 0.894031
+Recall clase 3: 0.906424
+Recall clase 4: 0.896907
+Recall clase 5: 0.895485
+Recall clase 6: 0.96536
+Recall clase 7: 0.920352
+Recall clase 8: 0.853933
+Recall clase 9: 0.879889
+
+Recall del Clasificador: 0.917717
+
+F1 Score: 0.919059
+
+-----------------------------------------------------------------------------
+
+Train: 4200 (10%)
+
+PCA + kN N. Trabajando...
+PCA_PARCIAL : 57.3649
+Hit Rate para K = 4: 0.941481
+
+Precision para clase 0: 0.957552
+Precision para clase 1: 0.928823
+Precision para clase 2: 0.970187
+Precision para clase 3: 0.9273
+Precision para clase 4: 0.954108
+Precision para clase 5: 0.933097
+Precision para clase 6: 0.95898
+Precision para clase 7: 0.934142
+Precision para clase 8: 0.956005
+Precision para clase 9: 0.900925
+
+Precision del Clasificador: 0.942112
+Recall clase 0: 0.983155
+Recall clase 1: 0.992933
+Recall clase 2: 0.931265
+Recall clase 3: 0.93085
+Recall clase 4: 0.914472
+Recall clase 5: 0.928971
+Recall clase 6: 0.973052
+Recall clase 7: 0.948467
+Recall clase 8: 0.891847
+Recall clase 9: 0.909576
+
+Recall del Clasificador: 0.940459
+
+F1 Score: 0.941285
+
+-----------------------------------------------------------------------------
+
+Train: 10500 (25%)
+
+PCA + kN N. Trabajando...
+PCA_PARCIAL : 97.645
+Hit Rate para K = 5: 0.959587
+
+Precision para clase 0: 0.973552
+Precision para clase 1: 0.952407
+Precision para clase 2: 0.971738
+Precision para clase 3: 0.955494
+Precision para clase 4: 0.965197
+Precision para clase 5: 0.953142
+Precision para clase 6: 0.967619
+Precision para clase 7: 0.956222
+Precision para clase 8: 0.976761
+Precision para clase 9: 0.926868
+
+Precision del Clasificador: 0.9599
+Recall clase 0: 0.986599
+Recall clase 1: 0.991879
+Recall clase 2: 0.954179
+Recall clase 3: 0.950825
+Recall clase 4: 0.946069
+Recall clase 5: 0.954836
+Recall clase 6: 0.983543
+Recall clase 7: 0.960542
+Recall clase 8: 0.919761
+Recall clase 9: 0.941233
+
+Recall del Clasificador: 0.958947
+
+F1 Score: 0.959423
+
+-----------------------------------------------------------------------------
+
+Train: 21000 (50%)
+
+PCA + kN N. Trabajando...
+PCA_PARCIAL : 129.131
+Hit Rate para K = 6: 0.967905
+
+Precision para clase 0: 0.987739
+Precision para clase 1: 0.966737
+Precision para clase 2: 0.979014
+Precision para clase 3: 0.961027
+Precision para clase 4: 0.970927
+Precision para clase 5: 0.959502
+Precision para clase 6: 0.969014
+Precision para clase 7: 0.960987
+Precision para clase 8: 0.977881
+Precision para clase 9: 0.948381
+
+Precision del Clasificador: 0.968121
+Recall clase 0: 0.993587
+Recall clase 1: 0.99265
+Recall clase 2: 0.965816
+Recall clase 3: 0.950567
+Recall clase 4: 0.965603
+Recall clase 5: 0.960499
+Recall clase 6: 0.990403
+Recall clase 7: 0.974091
+Recall clase 8: 0.934152
+Recall clase 9: 0.949272
+
+Recall del Clasificador: 0.967664
+
+F1 Score: 0.967892
+
+-----------------------------------------------------------------------------
+
+Train: 31500 (75%)
+
+PCA + kN N. Trabajando...
+PCA_PARCIAL : 97.5058
+Hit Rate para K = 7: 0.971524
+
+Precision para clase 0: 0.985089
+Precision para clase 1: 0.969325
+Precision para clase 2: 0.984834
+Precision para clase 3: 0.959738
+Precision para clase 4: 0.980691
+Precision para clase 5: 0.970438
+Precision para clase 6: 0.974383
+Precision para clase 7: 0.959091
+Precision para clase 8: 0.977451
+Precision para clase 9: 0.95692
+
+Precision del Clasificador: 0.971796
+Recall clase 0: 0.992986
+Recall clase 1: 0.993711
+Recall clase 2: 0.963822
+Recall clase 3: 0.951718
+Recall clase 4: 0.970825
+Recall clase 5: 0.968464
+Recall clase 6: 0.989403
+Recall clase 7: 0.975948
+Recall clase 8: 0.952245
+Recall clase 9: 0.95692
+
+Recall del Clasificador: 0.971604
+
+F1 Score: 0.9717
+
+-----------------------------------------------------------------------------
+
+Train: 35700 (85%)
+
+PCA + kN N. Trabajando...
+PCA_PARCIAL : 69.6664
+Hit Rate para K = 8: 0.971746
+
+Precision para clase 0: 0.985891
+Precision para clase 1: 0.971471
+Precision para clase 2: 0.985871
+Precision para clase 3: 0.9613
+Precision para clase 4: 0.984211
+Precision para clase 5: 0.967532
+Precision para clase 6: 0.972713
+Precision para clase 7: 0.954683
+Precision para clase 8: 0.984472
+Precision para clase 9: 0.953662
+
+Precision del Clasificador: 0.972181
+Recall clase 0: 0.992895
+Recall clase 1: 0.992331
+Recall clase 2: 0.967643
+Recall clase 3: 0.949541
+Recall clase 4: 0.97227
+Recall clase 5: 0.965964
+Recall clase 6: 0.986971
+Recall clase 7: 0.979845
+Recall clase 8: 0.953383
+Recall clase 9: 0.960843
+
+Recall del Clasificador: 0.972169
+
+F1 Score: 0.972175
+
+--------------------------------------------------------------------------------
+
+Train: 37800 (90%)
+
+PCA + kN N. Trabajando...
+PCA_PARCIAL : 57.5523
+Hit Rate para K = 1: 0.972619
+
+Precision para clase 0: 0.987805
+Precision para clase 1: 0.962963
+Precision para clase 2: 0.982968
+Precision para clase 3: 0.96696
+Precision para clase 4: 0.976864
+Precision para clase 5: 0.979798
+Precision para clase 6: 0.971154
+Precision para clase 7: 0.96882
+Precision para clase 8: 0.982368
+Precision para clase 9: 0.949881
+
+Precision del Clasificador: 0.972958
+Recall clase 0: 0.997537
+Recall clase 1: 0.995495
+Recall clase 2: 0.9642
+Recall clase 3: 0.962719
+Recall clase 4: 0.957179
+Recall clase 5: 0.962779
+Recall clase 6: 0.992629
+Recall clase 7: 0.966667
+Recall clase 8: 0.962963
+Recall clase 9: 0.96368
+
+Recall del Clasificador: 0.972585
+
+F1 Score: 0.972771
+
+-----------------------------------------------------------------------------
+
+Train: 41580 (99%)
+
+PCA + kN N. Trabajando...
+PCA_PARCIAL : 21.2866
+Hit Rate para K = 9: 0.97381
+
+Precision para clase 0: 1
+Precision para clase 1: 0.973684
+Precision para clase 2: 1
+Precision para clase 3: 0.952381
+Precision para clase 4: 1
+Precision para clase 5: 0.958333
+Precision para clase 6: 0.894737
+Precision para clase 7: 0.965517
+Precision para clase 8: 1
+Precision para clase 9: 0.98
+
+Precision del Clasificador: 0.972465
+Recall clase 0: 1
+Recall clase 1: 1
+Recall clase 2: 0.977778
+Recall clase 3: 0.930233
+Recall clase 4: 0.977273
+Recall clase 5: 0.958333
+Recall clase 6: 1
+Recall clase 7: 1
+Recall clase 8: 0.979592
+Recall clase 9: 0.942308
+
+Recall del Clasificador: 0.976552
+
+F1 Score: 0.974504
+
+-----------------------------------------------------------------------------
+
+Train: 42000 (100%)
+
+PCA + kN N. Trabajando...
+PCA_PARCIAL : 17.5366
+Hit Rate para K = 10: -nan
+
+Precision para clase 0: -nan
+Precision para clase 1: -nan
+Precision para clase 2: -nan
+Precision para clase 3: -nan
+Precision para clase 4: -nan
+Precision para clase 5: -nan
+Precision para clase 6: -nan
+Precision para clase 7: -nan
+Precision para clase 8: -nan
+Precision para clase 9: -nan
+
+Precision del Clasificador: -nan
+Recall clase 0: -nan
+Recall clase 1: -nan
+Recall clase 2: -nan
+Recall clase 3: -nan
+Recall clase 4: -nan
+Recall clase 5: -nan
+Recall clase 6: -nan
+Recall clase 7: -nan
+Recall clase 8: -nan
+Recall clase 9: -nan
+
+Recall del Clasificador: -nan
+
+F1 Score: -nan
+
+PCA_TOTAL : 567.159
+
+-----------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------

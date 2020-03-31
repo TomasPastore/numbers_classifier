@@ -1,0 +1,24 @@
+---------------------------- p = 90% -----------------------------------
+PCA + k-NN. Trabajando... particion: 1 de 10
+PCA + k-NN. Trabajando... particion: 2 de 10
+PCA + k-NN. Trabajando... particion: 3 de 10
+PCA + k-NN. Trabajando... particion: 4 de 10
+PCA + k-NN. Trabajando... particion: 5 de 10
+PCA + k-NN. Trabajando... particion: 6 de 10
+PCA + k-NN. Trabajando... particion: 7 de 10
+PCA + k-NN. Trabajando... particion: 8 de 10
+PCA + k-NN. Trabajando... particion: 9 de 10
+PCA + k-NN. Trabajando... particion: 10 de 10
+Promedio de Hit Rate de porcentaje =  75%: 0.975619
+Promedio de F1-Score de porcentaje =  75%: 0.97552
+PCA_TOTAL : 7936.38 segundos (2 horas y 12 minutos) 132 min
+
+
+---------------------------- p = 75 -----------------------------------
+PLS-DA + k-NN. Trabajando... particion: 1 de 4
+PLS-DA + k-NN. Trabajando... particion: 2 de 4
+PLS-DA + k-NN. Trabajando... particion: 3 de 4
+PLS-DA + k-NN. Trabajando... particion: 4 de 4
+Promedio de Hit Rate de porcentaje =  75%: 0.970357
+Promedio de F1-Score de porcentaje =  75%: 0.970274
+PLS_TOTAL : 1590.14 segundos (26 minutos y medio)   26,5 min

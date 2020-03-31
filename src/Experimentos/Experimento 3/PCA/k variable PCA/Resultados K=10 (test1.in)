@@ -1,0 +1,98 @@
+---------------------------- k = 1 -----------------------------------
+PCA + k-NN. Trabajando... iteracion: 1 de 10
+PCA + k-NN. Trabajando... iteracion: 2 de 10
+PCA + k-NN. Trabajando... iteracion: 3 de 10
+PCA + k-NN. Trabajando... iteracion: 4 de 10
+PCA + k-NN. Trabajando... iteracion: 5 de 10
+PCA + k-NN. Trabajando... iteracion: 6 de 10
+PCA + k-NN. Trabajando... iteracion: 7 de 10
+PCA + k-NN. Trabajando... iteracion: 8 de 10
+PCA + k-NN. Trabajando... iteracion: 9 de 10
+PCA + k-NN. Trabajando... iteracion: 10 de 10
+PROMEDIO HR DE k =  1: 0.972
+---------------------------- k = 5 -----------------------------------
+PCA + k-NN. Trabajando... iteracion: 1 de 10
+PCA + k-NN. Trabajando... iteracion: 2 de 10
+PCA + k-NN. Trabajando... iteracion: 3 de 10
+PCA + k-NN. Trabajando... iteracion: 4 de 10
+PCA + k-NN. Trabajando... iteracion: 5 de 10
+PCA + k-NN. Trabajando... iteracion: 6 de 10
+PCA + k-NN. Trabajando... iteracion: 7 de 10
+PCA + k-NN. Trabajando... iteracion: 8 de 10
+PCA + k-NN. Trabajando... iteracion: 9 de 10
+PCA + k-NN. Trabajando... iteracion: 10 de 10
+PROMEDIO HR DE k =  5: 0.974738
+---------------------------- k = 10 -----------------------------------
+PCA + k-NN. Trabajando... iteracion: 1 de 10
+PCA + k-NN. Trabajando... iteracion: 2 de 10
+PCA + k-NN. Trabajando... iteracion: 3 de 10
+PCA + k-NN. Trabajando... iteracion: 4 de 10
+PCA + k-NN. Trabajando... iteracion: 5 de 10
+PCA + k-NN. Trabajando... iteracion: 6 de 10
+PCA + k-NN. Trabajando... iteracion: 7 de 10
+PCA + k-NN. Trabajando... iteracion: 8 de 10
+PCA + k-NN. Trabajando... iteracion: 9 de 10
+PCA + k-NN. Trabajando... iteracion: 10 de 10
+PROMEDIO HR DE k =  10: 0.973357
+---------------------------- k = 20 -----------------------------------
+PCA + k-NN. Trabajando... iteracion: 1 de 10
+PCA + k-NN. Trabajando... iteracion: 2 de 10
+PCA + k-NN. Trabajando... iteracion: 3 de 10
+PCA + k-NN. Trabajando... iteracion: 4 de 10
+PCA + k-NN. Trabajando... iteracion: 5 de 10
+PCA + k-NN. Trabajando... iteracion: 6 de 10
+PCA + k-NN. Trabajando... iteracion: 7 de 10
+PCA + k-NN. Trabajando... iteracion: 8 de 10
+PCA + k-NN. Trabajando... iteracion: 9 de 10
+PCA + k-NN. Trabajando... iteracion: 10 de 10
+PROMEDIO HR DE k =  20: 0.968833
+---------------------------- k = 30 -----------------------------------
+PCA + k-NN. Trabajando... iteracion: 1 de 10
+PCA + k-NN. Trabajando... iteracion: 2 de 10
+PCA + k-NN. Trabajando... iteracion: 3 de 10
+PCA + k-NN. Trabajando... iteracion: 4 de 10
+PCA + k-NN. Trabajando... iteracion: 5 de 10
+PCA + k-NN. Trabajando... iteracion: 6 de 10
+PCA + k-NN. Trabajando... iteracion: 7 de 10
+PCA + k-NN. Trabajando... iteracion: 8 de 10
+PCA + k-NN. Trabajando... iteracion: 9 de 10
+PCA + k-NN. Trabajando... iteracion: 10 de 10
+PROMEDIO HR DE k =  30: 0.964905
+---------------------------- k = 40 -----------------------------------
+PCA + k-NN. Trabajando... iteracion: 1 de 10
+PCA + k-NN. Trabajando... iteracion: 2 de 10
+PCA + k-NN. Trabajando... iteracion: 3 de 10
+PCA + k-NN. Trabajando... iteracion: 4 de 10
+PCA + k-NN. Trabajando... iteracion: 5 de 10
+PCA + k-NN. Trabajando... iteracion: 6 de 10
+PCA + k-NN. Trabajando... iteracion: 7 de 10
+PCA + k-NN. Trabajando... iteracion: 8 de 10
+PCA + k-NN. Trabajando... iteracion: 9 de 10
+PCA + k-NN. Trabajando... iteracion: 10 de 10
+PROMEDIO HR DE k =  40: 0.961714
+---------------------------- k = 50 -----------------------------------
+PCA + k-NN. Trabajando... iteracion: 1 de 10
+PCA + k-NN. Trabajando... iteracion: 2 de 10
+PCA + k-NN. Trabajando... iteracion: 3 de 10
+PCA + k-NN. Trabajando... iteracion: 4 de 10
+PCA + k-NN. Trabajando... iteracion: 5 de 10
+PCA + k-NN. Trabajando... iteracion: 6 de 10
+PCA + k-NN. Trabajando... iteracion: 7 de 10
+PCA + k-NN. Trabajando... iteracion: 8 de 10
+PCA + k-NN. Trabajando... iteracion: 9 de 10
+PCA + k-NN. Trabajando... iteracion: 10 de 10
+PROMEDIO HR DE k =  50: 0.9595
+---------------------------- k = 100 -----------------------------------
+PCA + k-NN. Trabajando... iteracion: 1 de 10
+PCA + k-NN. Trabajando... iteracion: 2 de 10
+PCA + k-NN. Trabajando... iteracion: 3 de 10
+PCA + k-NN. Trabajando... iteracion: 4 de 10
+PCA + k-NN. Trabajando... iteracion: 5 de 10
+PCA + k-NN. Trabajando... iteracion: 6 de 10
+PCA + k-NN. Trabajando... iteracion: 7 de 10
+PCA + k-NN. Trabajando... iteracion: 8 de 10
+PCA + k-NN. Trabajando... iteracion: 9 de 10
+PCA + k-NN. Trabajando... iteracion: 10 de 10
+PROMEDIO HR DE k =  100: 0.949833
+k OPTIMO DEL EXPERIMENTO(con peso): 5
+PCA_TOTAL : 3218.12
